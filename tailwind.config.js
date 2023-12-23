@@ -7,12 +7,14 @@ module.exports = {
     extend: {
       fontFamily: {
         'nunito': ['Nunito', 'sans-serif'],
+        'open': ['Open Sans', 'sans-serif'],
       }
     },
     colors: {
       heading: '#11175D',
       secondary: '#888BAE',
       background: '#FFFFFF',
+      primary: '#5F35F5',
     },
   },
   plugins: [],
